@@ -19,8 +19,8 @@ static PyObject *rc4(PyObject *self, PyObject *args) {
 
     /* allocate variables */
 
-    size_t idx, jdx, kdx, temp;
-    unsigned char S[256];
+    size_t idx, jdx, kdx;
+    unsigned char S[256], temp;
 
     /* fill up the S buffer */
 
