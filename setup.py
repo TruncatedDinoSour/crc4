@@ -9,7 +9,7 @@ with open("README.md", "r") as fp:
 
 setup(
     name="crc4",
-    version="0.0.1",
+    version="0.0.2",
     author="Ari Archer",
     author_email="ari@ari.lt",
     url="https://ari.lt/gh/crc4",

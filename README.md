@@ -12,8 +12,8 @@ pip install crc4
 
 ```
 Timing tests...
-Python... 1.4015193369996268
-C... 0.08188532599888276
+Python... 1.7240336459999952
+C... 0.09873893399999645
 ```
 
 C is over 17 times faster.
