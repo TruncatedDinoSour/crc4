@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/crc4>
 # CRC4
 
 > RC4 encryption for python in C
